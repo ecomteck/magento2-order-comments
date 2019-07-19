@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <order_comment>
+            <general>
+                <enable>1</enable>
+                <show_in_account>1</show_in_account>
+                <collapse_state>0</collapse_state>
+            </general>
+        </order_comment>
+    </default>
+</config>
