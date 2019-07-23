@@ -8,6 +8,8 @@
   "type": "magento2-module",
   "keywords": ["magento2"],
   "license": "MIT",
+  "minimum-stability": "beta",
+  "prefer-stable": true,
   "authors": [
     {
       "name": "Ecomteck",
